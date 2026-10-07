@@ -5,6 +5,12 @@ This repository contains the data, code, and analysis results for a machine lear
 
 The molecular structures were represented using Extended-Connectivity Fingerprints (ECFP), and a multilayer perceptron (MLP) was used for fluorescence classification. Integrated Gradients (IG) was applied to interpret the molecular features utilized by the model during prediction.
 
+## Graphical Abstract
+
+<p align="center">
+  <img src="GraphicalAbstract.png" width="850">
+</p>
+
 ## Repository Structure
 
 ```text
