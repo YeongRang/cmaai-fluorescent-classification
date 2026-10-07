@@ -8,7 +8,7 @@ The molecular structures were represented using Extended-Connectivity Fingerprin
 ## Graphical Abstract
 
 <p align="center">
-  <img src="GraphicalAbstract.png" width="850">
+  <img src="result/GraphicalAbstract.png" width="850">
 </p>
 
 ## Repository Structure
